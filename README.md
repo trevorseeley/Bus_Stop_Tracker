@@ -1,6 +1,6 @@
 # Bus Stop Tracker
 
-Exercise to track bus stops along a route.
+Exercise to track bus stops along a route. It implemented asynchronous code, pulling data from an external API and using that data to overlay markers on a map based off real data.
 
 Check out the Pacman Exercise: <a href="https://trevorseeley.github.io/PacMan_Factory"> Click Here </a>
 
